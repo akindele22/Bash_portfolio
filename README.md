@@ -25,9 +25,11 @@ I analyze and design a dashboard that shows how Apple has reduced their emission
 
 ![Apple's Green House Emission](/Picture1.png)
 
+
+
 ### Inventory Management Dashboard
 I designed a compelling dashboard on inventory management based on ABC analysis and XYZ analysis in inventory management system. ABC analysis is a method in which inventory is divided into three categories, i.e A,B and C in descending value. The items in the A category have highest value, B category items are of lower value than A, and C category items have the lowest value. XYZ analysis is a way to classify inventory items according to the variability of their demand or derived/forcasted consumption. XYZ analysis can be used to plan material requirements and inventory levels so that waste, production delays, or excessive inventory levels can be avoided. I use DAX to create a  measure for the analysis.
 
-![Inventory Management Dashboard](/Picture4.png)
+![Inventory Management Dashboard](/Picture3.png)
 
 
