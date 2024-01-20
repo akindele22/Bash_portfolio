@@ -3,7 +3,7 @@
 #### Technical Skills: Python(Pandas,Sckit-learn,Tensorflow, Keras, Pytorch), SQL, Power Bi, Excel, Tableau ,Data Analyst, Time Series Forcasting, Sentiment Analysis
 
 ## Education						       		 			        		
-- B.S., Information Systems | Federal University of Technology (_August 2023_)
+- B.SC, Information Systems | Federal University of Technology (_August 2023_)
 - Associate Degree, Computer Craft	| Lagos State Technical College (_September 2016_)	
 
 ## Work Experience
