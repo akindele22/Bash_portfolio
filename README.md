@@ -25,9 +25,9 @@
 
   
 ## Projects
-### Weapon Detection ("https://github.com/akindele22/weaponCV.git")
+### Weapon Detection 
 Developed a machine Learning model built with Tensorflow libraries that detect weapons(knives, matchet ) using inceptionv2, Restnet101,Restnet50.
-![Inception v2](akindele22/weaponCV/tree/main/inception v2 model.png)
+
 
 ### Apple's Green House Emission
 
