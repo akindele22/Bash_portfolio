@@ -28,6 +28,8 @@
 ### Weapon Detection 
 Developed a machine Learning model built with Tensorflow libraries that detect weapons(knives, matchet ) using inceptionv2, Restnet101,Restnet50.
 
+## Crypto trading bot 
+Developed and implemented proprietary algorithmic trading strategies using simple moving average (200) and exponential moving average(200)
 
 ### Apple's Green House Emission
 
