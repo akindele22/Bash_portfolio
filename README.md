@@ -18,7 +18,7 @@
 ## Freelance Data Scientist/Analyst (_December 2022 - Present_)
 - I developed and implemented compelling dashboard using data to tell a story and generate key data points insights For an HR company.
 - I develop multiple machine learning models for client( student research) Achievements/Tasks
-- ### Reinforcement Learning-Based Network Intrusion Detection System (https://github.com/akindele22/NetworkIntrusion.git)
+- Reinforcement Learning-Based Network Intrusion Detection System (https://github.com/akindele22/NetworkIntrusion.git)
   Developed an **AI-powered Network Intrusion Detection System (NIDS)** leveraging **Reinforcement Learning** and the **NSL-KDD dataset** to detect and prevent malicious network     
   activities.  
 **Key Features:**  
@@ -27,7 +27,7 @@
 - **Real-Time Monitoring:** Enabled dynamic detection of abnormal traffic patterns and potential security breaches.  
 - **Scalable Solution:** Designed for seamless integration into existing network infrastructures.  
 - I developed an image classification using CIFAR-10 datasets.
-- ### Anti-Phishing Chrome Extension with Machine Learning(https://github.com/akindele22/phishing-detector-ext.git)
+- Anti-Phishing Chrome Extension with Machine Learning(https://github.com/akindele22/phishing-detector-ext.git)
 - Designed and developed an **AI-powered Chrome browser extension** to **detect and flag malicious URLs** using a **Random Forest Machine Learning model**. The extension analyzes URL features in real-time to identify phishing attempts, enhancing online security and user protection.  
 **Key Features:**  
 - **Real-Time Detection:** Instantly flags suspicious and malicious URLs.  
@@ -36,7 +36,7 @@
 - **Scalable Backend:** Flask API for efficient feature extraction and analysis.  
 - I interpreted, analyzed and presented the analysis of my data results.
 - I developed and designed an interactive dashboard for a software product that shows insights on customer usage.
-- ### Sales Prediction and Analysis Dashboard  
+- Sales Prediction and Analysis Dashboard  
 Developed a **Sales Prediction and Analysis Dashboard** leveraging **LSTM** for accurate sales forecasting. The project integrates a **Flask backend** with a **Google Colab deployment environment**, enabling seamless data preprocessing, model execution, and feature extraction. The dashboard, built with an interactive **UI layer**, displays sales trends, insights, and future predictions using dynamic visualizations (.  
 Key features include:  
 - **Real-time Sales Forecasting:** Predict future sales trends with precision.  
