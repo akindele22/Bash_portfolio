@@ -41,8 +41,9 @@ Developed a **Sales Prediction and Analysis Dashboard** leveraging **LSTM** for 
 **Key features include:** 
 - Real-time Sales Forecasting: Predict future sales trends with precision.  
 - Interactive Visualization: Graphical representation of sales data for better decision-making.  
-- Scalable Deployment: Hosted in **Google Colab** with integration to **Google Drive** for data storage.  
-- Collaborative Workflow: Accessible from any device, supporting team collaboration.  
+- Scalable Deployment: Hosted on **Render**.  
+- Collaborative Workflow: Accessible from any device.
+  
 - Keystroke-Based Continuous Authentication System
 Developed an **AI-driven continuous authentication system** utilizing keystroke dynamics to enhance user security and prevent unauthorized access.
 Key Features:
