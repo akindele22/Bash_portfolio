@@ -56,6 +56,7 @@ Developed an **AI-driven continuous authentication system** utilizing keystroke 
     -	Continuous Monitoring: Enabled real-time analysis of typing patterns for ongoing user verification.
     -	Local Deployment: Optimized the system for seamless performance in a local deployment environment.
     -	Enhanced Security: Improved system resilience against impersonation and unauthorized access attempts.
+
   
 ## Senior Data Analyst – NextCounsel
 Lagos, Nigeria | 09/2023 – 08/2025 
