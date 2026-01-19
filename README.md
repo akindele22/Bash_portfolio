@@ -44,7 +44,10 @@ Freelance Data Scientist
     - Real-time Sales Forecasting: Predict future sales trends with precision.  
     - Interactive Visualization: Graphical representation of sales data for better decision-making.  
     - Scalable Deployment: Hosted on Render.  
-    - Collaborative Workflow: Accessible from any device.  
+    - Collaborative Workflow: Accessible from any device.
+    ![Sales Prediction and Analysis Dashboard  ](/Picture5.png)
+
+    ![Sales Prediction and Analysis Dashboard  ](/Picture6.png)
 - Keystroke-Based Continuous Authentication System: Engineered an AI-driven authentication system leveraging keystroke dynamics, enhancing authentication accuracy 
 by 15% and adding an additional security factor. 
 Developed an **AI-driven continuous authentication system** utilizing keystroke dynamics to enhance user security and prevent unauthorized access.
